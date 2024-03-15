@@ -15,11 +15,11 @@ The primary objectives of the project include:
 By Using the Streamlit for the frontend interface and PostgreSQL for backend data storage, this project aims to provide a comprehensive solution for visualizing and analyzing PhonePe Pulse data effectively.
 
 # Need Package and Libraries:
-import json
-import streamlit as st
-import pandas as pd
-import requests
-import psycopg2
-import plotly.express as px
-import plotly.graph_objects as go
+import json,
+import streamlit as st,
+import pandas as pd,
+import requests,
+import psycopg2,
+import plotly.express as px,
+import plotly.graph_objects as go,
 from streamlit_option_menu import option_menu
