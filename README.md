@@ -12,4 +12,4 @@ The primary objectives of the project include:
 
 #Database Integration: Store the retrieved data in a PostgreSQL (PSQL) database to ensure efficient data management and scalability.
 
-By leveraging Streamlit for the frontend interface and PostgreSQL for backend data storage, this project aims to provide a comprehensive solution for visualizing and analyzing PhonePe Pulse data effectively.
+By Using the Streamlit for the frontend interface and PostgreSQL for backend data storage, this project aims to provide a comprehensive solution for visualizing and analyzing PhonePe Pulse data effectively.
