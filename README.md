@@ -6,10 +6,10 @@ This project focuses on creating a user-friendly application using Streamlit for
 
 The primary objectives of the project include:
 
-# Streamlit Application: Develop an intuitive and interactive Streamlit application that allows users to explore PhonePe Pulse data seamlessly.
+#Streamlit Application: Develop an intuitive and interactive Streamlit application that allows users to explore PhonePe Pulse data seamlessly.
 
-# Data Retrieval: Implement functionalities to retrieve user details, aggregation details, and transaction data from the PhonePe Pulse Data Repository.
+#Data Retrieval: Implement functionalities to retrieve user details, aggregation details, and transaction data from the PhonePe Pulse Data Repository.
 
-# Database Integration: Store the retrieved data in a PostgreSQL (PSQL) database to ensure efficient data management and scalability.
+#Database Integration: Store the retrieved data in a PostgreSQL (PSQL) database to ensure efficient data management and scalability.
 
 By leveraging Streamlit for the frontend interface and PostgreSQL for backend data storage, this project aims to provide a comprehensive solution for visualizing and analyzing PhonePe Pulse data effectively.
